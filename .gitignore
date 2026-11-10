@@ -1,0 +1,15 @@
+# Sanal ortam klasörünü yok say
+env/
+venv/
+
+# Büyük veri dosyalarını ve klasörlerini yok say
+data/
+*.npy
+*.zip
+
+# Python geçici önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Üretilen grafik çıktıları (isteğe bağlı)
+*.png
